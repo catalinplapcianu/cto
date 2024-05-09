@@ -1,18 +1,13 @@
-{
-  "name": "Solflare X NFT",
-  "symbol":"CTO",
-  "seller_fee_basis_points": 0,
-  "image": "https://www.arweave.net/abcd5678?ext=png",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://www.arweave.net/abcd5678?ext=png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      { "address": "SOLFLR15asd9d21325bsadythp547912501b", "share": 100 }
-    ]
-  }
+{ 
+"collection": "Collection",
+"collectionDetails": "{ __kind: "V1" } & { size: bignum }",
+"data": "Data",
+"editionNonce": "1",
+"isMutable": "false",
+"key": "string",
+"mint": "string",
+"primarySaleHappened": "true",
+"tokenStandard": "TokenStandard", 
+"updateAuthority": "string",
+"uses": "Uses",
 }
