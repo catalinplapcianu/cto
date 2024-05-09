@@ -1,13 +1,15 @@
-{ 
-"collection": "Collection",
-"collectionDetails": "",
-"data": "Data",
-"editionNonce": "1",
-"isMutable": "false",
-"key": "string",
-"mint": "string",
-"primarySaleHappened": "true",
-"tokenStandard": "TokenStandard", 
-"updateAuthority": "string",
-"uses": "Uses",
+{
+  "key": 4,
+  "updateAuthority": "6NgoyRMJ5H1hdQtRUmE7wRFVogXxXH1aoHSy2acZaEi6",
+  "mint": "3ag1Mj9AKz9FAkCQ6gAEhpLSX8B2pUbPdkb9iBsDLZNB",
+  "data": {
+    "name": "Honk",
+    "symbol": "HONK",
+    "uri": "https://bafkreidlg62jgcw2es2pgqm6an6k2iyv3lmv6b2hvicgjzlofc276hzjei.ipfs.nftstorage.link",
+    "sellerFeeBasisPoints": 0
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 0,
+  "editionNonce": 255,
+  "tokenStandard": 2
 }
