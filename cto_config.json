@@ -1,6 +1,6 @@
 { 
 "collection": "Collection",
-"collectionDetails": "{ __kind: "V1" } & { size: bignum }",
+"collectionDetails": "",
 "data": "Data",
 "editionNonce": "1",
 "isMutable": "false",
