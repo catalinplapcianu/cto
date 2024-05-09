@@ -1,5 +1,14 @@
 {
-  "name":"Community Token",
-  "symbol":"CTO",
-  "uri":"https://github.com/catalinplapcianu/cto/blob/main/cto_logo.jpg"
+    "name": "TestNFT1",
+    "symbol": "TNFT",
+    "uri": "https://arweave.net/FPGAv1XnyZidnqquOdEbSY6_ES735ckcDTdaAtI7GFw",
+    "seller_fee_basis_points": 100,
+    "creators": [
+        {
+            "address": "PanbgtcTiZ2PveV96t2FHSffiLHXXjMuhvoabUUKKm8",
+            "verified": false,
+            "share": 100
+        }
+    ]
 }
+
