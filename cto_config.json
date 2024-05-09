@@ -1,22 +1,25 @@
 {
-  "key": 4,
-  "updateAuthority": "8jdAy26dSB1LYrktfwmcNqhDyMWcJJqkoNv3hDuEJfrb",
-  "mint": "3B3Zfs7eb46Re9GHWv6ccYRSBGy5EvQF2i2VXMD6tge6",
-  "data": {
-    "name": "Seal",
-    "symbol": "SEAL",
-    "uri": "https://nftstorage.link/ipfs/bafkreihlic3t6bgk5dmw52ds3vsuxc63efgnz4r4hxw3mdtw6twp63xuvu",
-    "sellerFeeBasisPoints": 0,
+  "name": "My Token",
+  "symbol": "MT",
+  "uri": "https://example.com/token/1",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "YOUR_SOLANA_ADDRESS",
+  "seller_fee_collection_address": "YOUR_SOLANA_ADDRESS",
+  "image": "https://example.com/token/1/image",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token/1/file",
+        "type": "text/plain"
+      }
+    ],
+    "category": "digital",
     "creators": [
       {
-        "address": "8jdAy26dSB1LYrktfwmcNqhDyMWcJJqkoNv3hDuEJfrb",
-        "verified": 1,
+        "address": "YOUR_SOLANA_ADDRESS",
         "share": 100
       }
     ]
-  },
-  "primarySaleHappened": 1,
-  "isMutable": 0,
-  "editionNonce": 253,
-  "tokenStandard": 2
+  }
 }
