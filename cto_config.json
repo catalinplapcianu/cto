@@ -1,15 +1,22 @@
 {
   "key": 4,
-  "updateAuthority": "6NgoyRMJ5H1hdQtRUmE7wRFVogXxXH1aoHSy2acZaEi6",
-  "mint": "3ag1Mj9AKz9FAkCQ6gAEhpLSX8B2pUbPdkb9iBsDLZNB",
+  "updateAuthority": "8jdAy26dSB1LYrktfwmcNqhDyMWcJJqkoNv3hDuEJfrb",
+  "mint": "3B3Zfs7eb46Re9GHWv6ccYRSBGy5EvQF2i2VXMD6tge6",
   "data": {
-    "name": "Honk",
-    "symbol": "HONK",
-    "uri": "https://bafkreidlg62jgcw2es2pgqm6an6k2iyv3lmv6b2hvicgjzlofc276hzjei.ipfs.nftstorage.link",
-    "sellerFeeBasisPoints": 0
+    "name": "Seal",
+    "symbol": "SEAL",
+    "uri": "https://nftstorage.link/ipfs/bafkreihlic3t6bgk5dmw52ds3vsuxc63efgnz4r4hxw3mdtw6twp63xuvu",
+    "sellerFeeBasisPoints": 0,
+    "creators": [
+      {
+        "address": "8jdAy26dSB1LYrktfwmcNqhDyMWcJJqkoNv3hDuEJfrb",
+        "verified": 1,
+        "share": 100
+      }
+    ]
   },
-  "primarySaleHappened": 0,
+  "primarySaleHappened": 1,
   "isMutable": 0,
-  "editionNonce": 255,
+  "editionNonce": 253,
   "tokenStandard": 2
 }
